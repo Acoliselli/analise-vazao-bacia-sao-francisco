@@ -28,8 +28,6 @@ O notebook contém as seguintes etapas e visualizações:
 - 🧪 Boxplot para análise de distribuição e outliers  
 - 🕵️‍♂️ Decomposição da Série Temporal da Vazão (Tendência, Sazonalidade e Resíduo)  
 - 🌊 Gráfico de Área da Vazão para visualização de volumes ao longo do tempo  
-- 🔥 Heatmap de Vazão Média Mensal por Ano  
-
 ---
 
 
