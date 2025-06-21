@@ -8,29 +8,28 @@ A análise inclui gráficos de linha, histograma, dispersão, boxplot, decomposi
 
 ---
 
-## Principais Bibliotecas Utilizadas
+## 🧰 Principais Bibliotecas Utilizadas
 
-- pandas  
-- matplotlib  
-- seaborn  
-- statsmodels  
+- 🐼 **pandas** – manipulação e análise de dados
+- 📈 **matplotlib** – geração de gráficos
+- 🎨 **seaborn** – visualizações estatísticas avançadas
+- 📊 **statsmodels** – análise estatística e séries temporais
 
 ---
 
-## Conteúdo da Análise
+## 📋 Conteúdo da Análise
 
 O notebook contém as seguintes etapas e visualizações:
 
-- Introdução à Bacia do Rio São Francisco  
-- Gráfico de Linha da Vazão ao longo do tempo  
-- Histograma da Vazão  
-- Gráfico de Dispersão (ex: Vazão x Tempo ou Vazão x outra variável, se disponível)  
-- Boxplot para análise de distribuição e outliers  
-- Decomposição da Série Temporal da Vazão (Tendência, Sazonalidade e Resíduo)  
-- Gráfico de Área da Vazão para visualização de volumes ao longo do tempo  
+- 🗺️ Introdução à Bacia do Rio São Francisco  
+- 📈 Gráfico de Linha da Vazão ao longo do tempo  
+- 📊 Histograma da Vazão  
+- 🔵 Gráfico de Dispersão (ex: Vazão x Tempo ou outra variável, se disponível)  
+- 🧪 Boxplot para análise de distribuição e outliers  
+- 🕵️‍♂️ Decomposição da Série Temporal da Vazão (Tendência, Sazonalidade e Resíduo)  
+- 🌊 Gráfico de Área da Vazão para visualização de volumes ao longo do tempo  
+- 🔥 Heatmap de Vazão Média Mensal por Ano  
 
 ---
-
-
 
 
